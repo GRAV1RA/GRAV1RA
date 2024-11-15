@@ -17,7 +17,7 @@
   <h1> Профиль на GITHUB </h1>
 </div>
 
-### :man_technologist: Обо мне:
+### :man_technologist: Обо мне :
 
 - :brain: IQ есть
   
@@ -47,4 +47,10 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAV1RA" alt=""/>
+</div>
+
+### :bar_chart: Статистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRAV1RA&theme=tokyo-night" alt=""/>
 </div>

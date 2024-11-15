@@ -8,3 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+
+<div id="viewprof" align="center">
+  <img src="https://komarev.com/ghpvc/?username=GRAV1RA&style=flat-square&color=blue" alt=""/>
+</div>

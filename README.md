@@ -24,3 +24,10 @@
 - :man_pilot: Быстро думаю
   
 - :biking_man: Сижу дома клацаю по клавиатуре
+
+### :hammer_and_wrench: Языки и инструменты :
+
+- C++
+- C#
+- Python
+- HTML

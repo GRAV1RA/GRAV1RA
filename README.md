@@ -18,3 +18,9 @@
 </div>
 
 ### :man_technologist: Обо мне:
+
+- :brain: IQ есть
+  
+- :man_pilot: Быстро думаю
+  
+- :biking_man: Сижу дома клацаю по клавиатуре
